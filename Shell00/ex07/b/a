@@ -1,0 +1,10 @@
+#include<stdio.h>
+
+int main()
+{
+	int a , b , c ;
+	printf("this is your number\t:%d",a);
+return 0;
+}
+thank you
+whith mouad kimdil salam 

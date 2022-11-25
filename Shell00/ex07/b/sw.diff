@@ -1,0 +1,13 @@
+1d0
+< #include<stdio.h>
+3,12d1
+< int main()
+< {
+< 	int a , b , c ;
+< 	printf("enter a number :");
+< 	scanf("%d",&a);
+< 	printf("this is your number\t:%d",a);
+< return 0;
+< }
+< thank you
+< whith mouad kimdil salam 
